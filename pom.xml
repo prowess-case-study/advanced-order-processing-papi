@@ -7,7 +7,7 @@
 	<version>1.0.2</version>
 	<packaging>mule-application</packaging>
 
-	<name>prowess-app-template</name>
+	<name>advanced-order-processing-papi</name>
 
 	<description/>
 	<properties>
